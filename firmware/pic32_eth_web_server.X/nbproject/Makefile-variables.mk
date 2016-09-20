@@ -1,0 +1,41 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# pic32mx_eth_sk configuration
+CND_ARTIFACT_DIR_pic32mx_eth_sk=dist/pic32mx_eth_sk/production
+CND_ARTIFACT_NAME_pic32mx_eth_sk=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_eth_sk=dist/pic32mx_eth_sk/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mx_eth_sk=${CND_DISTDIR}/pic32mx_eth_sk/package
+CND_PACKAGE_NAME_pic32mx_eth_sk=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mx_eth_sk=${CND_DISTDIR}/pic32mx_eth_sk/package/pic32ethwebserver.x.tar
+# pic32mx_eth_sk2 configuration
+CND_ARTIFACT_DIR_pic32mx_eth_sk2=dist/pic32mx_eth_sk2/production
+CND_ARTIFACT_NAME_pic32mx_eth_sk2=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mx_eth_sk2=dist/pic32mx_eth_sk2/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mx_eth_sk2=${CND_DISTDIR}/pic32mx_eth_sk2/package
+CND_PACKAGE_NAME_pic32mx_eth_sk2=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mx_eth_sk2=${CND_DISTDIR}/pic32mx_eth_sk2/package/pic32ethwebserver.x.tar
+# pic32mz_ec_sk configuration
+CND_ARTIFACT_DIR_pic32mz_ec_sk=dist/pic32mz_ec_sk/production
+CND_ARTIFACT_NAME_pic32mz_ec_sk=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ec_sk=dist/pic32mz_ec_sk/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mz_ec_sk=${CND_DISTDIR}/pic32mz_ec_sk/package
+CND_PACKAGE_NAME_pic32mz_ec_sk=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mz_ec_sk=${CND_DISTDIR}/pic32mz_ec_sk/package/pic32ethwebserver.x.tar
+# pic32mz_ef_sk configuration
+CND_ARTIFACT_DIR_pic32mz_ef_sk=dist/pic32mz_ef_sk/production
+CND_ARTIFACT_NAME_pic32mz_ef_sk=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_ef_sk=dist/pic32mz_ef_sk/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mz_ef_sk=${CND_DISTDIR}/pic32mz_ef_sk/package
+CND_PACKAGE_NAME_pic32mz_ef_sk=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mz_ef_sk=${CND_DISTDIR}/pic32mz_ef_sk/package/pic32ethwebserver.x.tar
+# pic32mz_da_sk configuration
+CND_ARTIFACT_DIR_pic32mz_da_sk=dist/pic32mz_da_sk/production
+CND_ARTIFACT_NAME_pic32mz_da_sk=pic32_eth_web_server.X.production.hex
+CND_ARTIFACT_PATH_pic32mz_da_sk=dist/pic32mz_da_sk/production/pic32_eth_web_server.X.production.hex
+CND_PACKAGE_DIR_pic32mz_da_sk=${CND_DISTDIR}/pic32mz_da_sk/package
+CND_PACKAGE_NAME_pic32mz_da_sk=pic32ethwebserver.x.tar
+CND_PACKAGE_PATH_pic32mz_da_sk=${CND_DISTDIR}/pic32mz_da_sk/package/pic32ethwebserver.x.tar
